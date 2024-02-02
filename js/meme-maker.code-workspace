@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../meme-maker"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../makeGame"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript",
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.root": ""
+	}
+}
